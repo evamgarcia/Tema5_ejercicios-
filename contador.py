@@ -19,3 +19,4 @@ try:
         nuevo_fichero.close()
 except:
     print("Error: Fichero corrupto")
+hasattr
